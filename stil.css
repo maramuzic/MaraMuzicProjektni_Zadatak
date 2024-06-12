@@ -1,0 +1,29 @@
+@charset "utf-8"
+/*CSS Document*/
+p{}
+
+ body {
+	background-image: url("slike/pozadina.jpg");
+}
+@font-face {
+	font-family: "MaraMuzic";
+	src: url("MaraMuzic3.ttf") format("truetype");
+}
+h1{
+	font-family:"MaraMuzic";
+	src:url("MaraMuzic3.ttf");
+	font-size: 25px;
+
+}
+h2{
+	font-family: Gotham, "Helvetica Neue"; Helvetica, Arial, "sans-serif";
+	color: darkolivegreen;
+}
+p{
+	color: darkolivegreen;
+	font-family: Gotham, "Helvetica Neue"; Helvetica, Arial, "sans-serif";
+
+
+
+
+}
